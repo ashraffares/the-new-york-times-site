@@ -70,7 +70,8 @@ header div i {
     margin: 5px;
 }
 
-header, main {
+header,
+main {
     text-align: left;
     width: 80%;
     margin: auto;
