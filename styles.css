@@ -25,13 +25,13 @@ iframe {
   top: 10px;
 }
 
-.img-left a {
-  margin: 10px;
-}
-
 nav a {
   text-decoration: none;
   color: black;
+}
+
+.img-left a {
+  margin: 10px;
 }
 
 .logo-center {
@@ -169,6 +169,25 @@ main {
   padding: 2px;
 }
 
+.footer-links a {
+  padding: 5px;
+  font-size: 14px;
+  line-height: 1.624;
+  display: block;
+  text-decoration: none;
+  color: #666;
+}
+
+.copyright a {
+  color: #666;
+}
+
+.subscribe-bold a {
+  color: black;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
 .artical-version a:hover {
   text-decoration: none;
 }
@@ -182,28 +201,9 @@ main {
   justify-content: space-evenly;
 }
 
-.footer-links a {
-  padding: 5px;
-  font-size: 14px;
-  line-height: 1.624;
-  display: block;
-  text-decoration: none;
-  color: #666;
-}
-
 .copyright {
   display: flex;
   justify-content: space-evenly;
   margin-bottom: 30px;
   font-size: 12px;
-}
-
-.copyright a {
-  color: #666;
-}
-
-.subscribe-bold a {
-  color: black;
-  font-size: 18px;
-  font-weight: bolder;
 }
