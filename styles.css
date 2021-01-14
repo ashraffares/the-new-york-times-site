@@ -213,6 +213,7 @@ main {
     grid-template-columns: 50% 50%;
     margin-bottom: 75px;
   }
+
   .copyright {
     padding: 10px;
     margin: 5px;
@@ -230,9 +231,11 @@ main {
   .logo-center a img {
     display: none;
   }
+
   nav {
     height: 80px;
   }
+  
   .top-button {
     text-align: center;
     margin-top: 5px;
