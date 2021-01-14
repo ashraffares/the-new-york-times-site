@@ -238,7 +238,7 @@ main {
 }
 
 .form textarea {
-  text-emphasis: center;
+  text-align: center;
   border-radius: 15px;
   border: 1px solid blue;
 }
