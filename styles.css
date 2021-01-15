@@ -191,6 +191,25 @@ main {
   font-weight: bolder;
 }
 
+.artical-grid a {
+  text-decoration: none;
+}
+
+.middle-fc {
+  font-size: 11px;
+  color: #808080;
+}
+.most-popular a {
+  text-decoration: none;
+  color: #000;
+  padding: 20px 0;
+  border-bottom: 1px solid rgb(226, 226, 226);
+}
+.artical-a div a,
+.artical-a div span {
+  padding: 5px;
+}
+
 .artical-version a:hover {
   text-decoration: none;
 }
@@ -219,10 +238,6 @@ main {
   margin: 0 40px;
 }
 
-.artical-grid a {
-  text-decoration: none;
-}
-
 .artical-a {
   display: grid;
   grid-template-columns: 30% 30% 30%;
@@ -237,15 +252,6 @@ main {
   flex-wrap: wrap;
 }
 
-.artical-a div a,
-.artical-a div span {
-  padding: 5px;
-}
-
-.middle-fc {
-  font-size: 11px;
-  color: #808080;
-}
 .middle-fc a {
   text-decoration: none;
 }
@@ -271,12 +277,7 @@ main {
 .img-width {
   width: 100%;
 }
-.most-popular a {
-  text-decoration: none;
-  color: #000;
-  padding: 20px 0;
-  border-bottom: 1px solid rgb(226, 226, 226);
-}
+
 @media only screen and (max-width: 600px) {
   .grid {
     grid-template-columns: 50% 50%;
