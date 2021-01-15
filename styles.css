@@ -56,6 +56,11 @@ header {
   flex-wrap: wrap;
 }
 
+.gun {
+  width: 60%;
+  margin-left: 180px;
+}
+
 header div {
   text-align: left;
   padding-bottom: 20px;
@@ -255,6 +260,7 @@ main {
   font-size: 1.1875rem;
   line-height: 1.4375rem;
 }
+
 .most-popular a {
   text-decoration: none;
   color: #000;
@@ -266,6 +272,7 @@ main {
   display: flex;
   background-color: red;
 }
+
 .itag {
   position: relative;
   top: -30px;
