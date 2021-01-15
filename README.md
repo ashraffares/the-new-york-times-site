@@ -14,6 +14,9 @@ GitHub: https://github.com/ashraffares/http-ashraffares.github.io-
 
 GitHub: https://github.com/billodiallo
 
+
+Live version:https://ashraffares.github.io/the-new-york-times-site/.
+
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 

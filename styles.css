@@ -208,100 +208,69 @@ main {
   font-size: 12px;
 }
 
-.form {
-  border-radius: 15px;
-  background-color: #f1f1f1;
-  margin: 20px auto;
-  padding: 25px;
-  display: flex;
-  flex-direction: column;
-  flex-wrap: wrap;
-  justify-content: space-evenly;
-  width: 60%;
-}
-
-.form input {
-  padding: 10px;
-  margin: 5px;
-  border-radius: 25px;
-  border: 1px solid blue;
-}
-
-.btn-form {
-  margin: 10px auto;
-  width: 60%;
-  padding: 10px;
-  border-radius: 25px;
-  background-color: rgb(50, 104, 145);
-  color: #fff;
-  border: 1px solid gray;
-}
-
-.form textarea {
-  text-align: center;
-  border-radius: 15px;
-  border: 1px solid blue;
-}
-
-.artical-grid{
+.artical-grid {
   display: grid;
   grid-template-columns: 75% 25%;
   margin: 0 40px;
-
 }
 
-.artical-grid  a{
+.artical-grid a {
   text-decoration: none;
 }
 
-.artical-a{
-  display:grid;
+.artical-a {
+  display: grid;
   grid-template-columns: 30% 30% 30%;
   grid-gap: 1%;
-  margin:20px;
+  margin: 20px;
 }
 
-
-.artical-a div{
-  display:flex;
+.artical-a div {
+  display: flex;
   flex-direction: column;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
 
-.artical-a div a{
+.artical-a div a {
   text-decoration: none;
 }
 
-.artical-a div a, .artical-a div span{
-  padding:5px;
+.artical-a div a,
+.artical-a div span {
+  padding: 5px;
 }
 
-.artical-a div b{
-  color:#000;
-  font-size:18px;
+.artical-a div b {
+  color: #000;
+  font-size: 18px;
 }
 
-.most-popular{
+.most-popular {
   display: flex;
   flex-direction: column;
   flex-wrap: wrap;
-  text-align:left;
+  text-align: left;
   height: 100%;
   font-size: 1.1875rem;
   line-height: 1.4375rem;
-
 }
-.most-popular a{
+.most-popular a {
   text-decoration: none;
-  color:#000;
-  padding:20px 0;
+  color: #000;
+  padding: 20px 0;
   border-bottom: 1px solid rgb(226, 226, 226);
-
 }
 
-
-
+.artical-a-img {
+  display: flex;
+  background-color: red;
+}
+.itag {
+  position: relative;
+  top: -30px;
+  right: -400px;
+}
 
 @media only screen and (max-width: 600px) {
   .grid {
