@@ -207,6 +207,10 @@ main {
   color: #808080;
 }
 
+.middle-fc a {
+  text-decoration: none;
+}
+
 .artical-a div a,
 .artical-a div span {
   padding: 5px;
@@ -252,10 +256,6 @@ main {
   flex-direction: column;
   justify-content: space-evenly;
   flex-wrap: wrap;
-}
-
-.middle-fc a {
-  text-decoration: none;
 }
 
 .md-r {
