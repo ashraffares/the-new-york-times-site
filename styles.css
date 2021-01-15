@@ -237,30 +237,27 @@ main {
   flex-wrap: wrap;
 }
 
-
-
 .artical-a div a,
 .artical-a div span {
   padding: 5px;
 }
 
-.middle-fc{
-  font-size:11px;
-  color:#808080;
+.middle-fc {
+  font-size: 11px;
+  color: #808080;
 }
-.middle-fc a{
+.middle-fc a {
   text-decoration: none;
 }
 
-.md-r{
+.md-r {
   text-align: right;
 }
 
-.md-b{
-  color:#000;
+.md-b {
+  color: #000;
   font-weight: bold;
 }
-
 
 .most-popular {
   display: flex;
@@ -271,8 +268,8 @@ main {
   font-size: 1.1875rem;
   line-height: 1.4375rem;
 }
-.img-width{
-  width:100%;
+.img-width {
+  width: 100%;
 }
 .most-popular a {
   text-decoration: none;
@@ -312,5 +309,4 @@ main {
     text-align: center;
     margin-top: 5px;
   }
-  
 }
