@@ -16,6 +16,14 @@ iframe {
   flex-wrap: wrap;
 }
 
+.header-img {
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+  justify-content: space-around;
+}
+
 .header-text {
   position: relative;
   top: -5px;
