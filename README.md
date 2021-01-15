@@ -8,12 +8,14 @@ Technologies Html css
 
 👤 Author1
 
+twitter:@Fares09301164
 GitHub: https://github.com/ashraffares/http-ashraffares.github.io-
+linkedin:https://www.linkedin.com/in/fares-ashraf-382a35176/
 
 👤 Author2
-
+twitter:@BilloDi83547008
 GitHub: https://github.com/billodiallo
-
+linkedin:https://www.linkedin.com/in/mabillodiallo/
 
 Live version:https://ashraffares.github.io/the-new-york-times-site/.
 
