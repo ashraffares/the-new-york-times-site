@@ -4,7 +4,7 @@
 
 > duplicate The New York Time Project.
 
-Additional description about the project and its features.
+this article from the New York Times clone.
 
 ## Built With
 
