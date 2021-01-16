@@ -12,18 +12,16 @@ Additional description about the project and its features.
 Built With Technologies Html css
 
 👤 Author1
+  - GitHub: GitHub:[@ashraffares](https://github.com/ashraffares)
+  - Twitter:[@Fares09301164](https://twitter.com/Fares09301164)
+  - Linkedin: Linkedin:[@fares-ashraf-382a35176](https://www.linkedin.com/in/fares-ashraf-382a35176/)
 
-GitHub:@billodiallo
-Twitter:@BilloDi83547008
-Linkedin:mabillodiallo
-Live version:billodiallo.github.io/nytproject/
 
 👤 Author2
 
-GitHub:@ashraffares
-Twitter:@Fares09301164
-Linkedin:fares-ashraf-382a35176/
-🤝 Contributing Contributions, issues, and feature requests are welcome!
+- GitHub:[@billodiallo](https://github.com/billodiallo)
+- Twitter: [@BilloDi83547008](https://twitter.com/BilloDi83547008)
+- Linkedin:[@mabillodiallo](https://www.linkedin.com/in/mabillodiallo/)
 
 Feel free to check the issues page.
 
