@@ -1,73 +1,34 @@
+The requirements of this project consists of making a clone of a New York Times article page. Applying some concepts of:
+
+Embedding images
+Floats and positioning
+The box model
+New York Times article page
+
 ![Desktop-screenshot](https://user-images.githubusercontent.com/37639594/104622251-b31ded00-5699-11eb-804d-ea3ece386088.png)
 
-# The New York Times 
+Additional description about the project and its features.
 
-> duplicate The New York Time Project.
-
-this article from the New York Times clone.
-
-## Built With
-
-- html - css
-- font awesome
-
-## Live Demo
-
-[Live Demo Link](https://ashraffares.github.io/the-new-york-times-site/)
-
-
-## Getting Started
-
-** added to local machine**
-** git clone https://github.com/ashraffares/the-new-york-times-site.git**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
+Built With Technologies Html css
 
 👤 Author1
 
-twitter:@Fares09301164
-GitHub: https://github.com/ashraffares/http-ashraffares.github.io-
-linkedin:https://www.linkedin.com/in/fares-ashraf-382a35176/
+GitHub:@billodiallo
+Twitter:@BilloDi83547008
+Linkedin:mabillodiallo
+Live version:billodiallo.github.io/nytproject/
 
 👤 Author2
-twitter:@BilloDi83547008
-GitHub: https://github.com/billodiallo
-linkedin:https://www.linkedin.com/in/mabillodiallo/
 
-## 🤝 Contributing
+GitHub:@ashraffares
+Twitter:@Fares09301164
+Linkedin:fares-ashraf-382a35176/
+🤝 Contributing Contributions, issues, and feature requests are welcome!
 
-Contributions, issues, and feature requests are welcome!
+Feel free to check the issues page.
 
-Feel free to check the [issues page](issues/).
+Show your support Give a ⭐️ if you like this project!
 
-## Show your support
+Acknowledgments Hat tip to anyone whose code was used Inspiration etc
 
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](lic.url) licensed.
-
+📝 License This project is MIT licensed.
