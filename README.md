@@ -1,10 +1,44 @@
-name the New York Times clone
 ![Desktop-screenshot](https://user-images.githubusercontent.com/37639594/104622251-b31ded00-5699-11eb-804d-ea3ece386088.png)
+
+# The New York Times 
+
+> duplicate The New York Time Project.
 
 Additional description about the project and its features.
 
-Built With
-Technologies Html css
+## Built With
+
+- html - css
+- font awesome
+
+## Live Demo
+
+[Live Demo Link](https://ashraffares.github.io/the-new-york-times-site/)
+
+
+## Getting Started
+
+** added to local machine**
+** git clone https://github.com/ashraffares/the-new-york-times-site.git**
+
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+### Setup
+
+### Install
+
+### Usage
+
+### Run tests
+
+### Deployment
+
+
+
+## Authors
 
 👤 Author1
 
@@ -17,20 +51,23 @@ twitter:@BilloDi83547008
 GitHub: https://github.com/billodiallo
 linkedin:https://www.linkedin.com/in/mabillodiallo/
 
-Live version:https://ashraffares.github.io/the-new-york-times-site/.
+## 🤝 Contributing
 
-🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](issues/).
 
-Show your support
+## Show your support
+
 Give a ⭐️ if you like this project!
 
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
+## Acknowledgments
 
-📝 License
-This project is MIT licensed.
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
+
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
+
