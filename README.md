@@ -5,7 +5,7 @@ Floats and positioning
 The box model
 New York Times article page
 
-![Desktop-screenshot](https://user-images.githubusercontent.com/37639594/104622251-b31ded00-5699-11eb-804d-ea3ece386088.png)
+![The-New-York-Times++](https://user-images.githubusercontent.com/37639594/104814119-d8376a80-5815-11eb-8d5d-db21f4774257.png)
 
 Additional description about the project and its features.
 
