@@ -30,6 +30,7 @@ iframe {
 }
 
 .img-left {
+  margin-top:10px;
   position: relative;
   top: 10px;
 }
@@ -45,6 +46,10 @@ nav a {
 
 .logo-center {
   display: inline-block;
+}
+
+.top-button{
+  margin-top:12px;
 }
 
 .top-button a {
